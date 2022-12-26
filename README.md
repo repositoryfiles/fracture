@@ -3,13 +3,10 @@
 ## 概要
 
 金属破断面の電子顕微鏡画像を読み込み、Dimple、Striation、River、Rock、Fan-Shapedのどれかを推論するプログラムです。学習はTeachableMachineで行っています。
-<br><br>
 
 ## 動作環境
 
 [Python](https://www.python.jp/)がインストールされたパソコンで動作します。
-
-<br><br>
 
 ## 使い方
 
