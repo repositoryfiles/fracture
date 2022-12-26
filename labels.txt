@@ -1,0 +1,5 @@
+0 Dimple
+1 Fan-shaped
+2 Rock
+3 Striation
+4 River
