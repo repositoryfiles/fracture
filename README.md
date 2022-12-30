@@ -3,6 +3,7 @@
 ## 概要
 
 金属破断面の電子顕微鏡画像を読み込み、Dimple、Striation、River、Rock、Fan-Shapedのどれかを推論するプログラムです。学習はTeachableMachineで行っています。
+fracture.pyはTeachableMachineのサンプルプログラムで、fracture1.pyはfracture.pyにファイル複数選択の機能を付けたものです。
 
 ## 動作環境
 
