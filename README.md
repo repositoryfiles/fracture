@@ -12,6 +12,7 @@ fracture.pyはTeachableMachineのサンプルプログラムで、fracture1.py�
 ## 使い方
 
 qiitaの記事を参考にしてお使いください。
+https://qiita.com/_Moony/items/bbf06b4ccb12f4e2dc99
 
 ## ご利用に関して
 
